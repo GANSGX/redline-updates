@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/GANSGX/redline-updates/releases/download/v1.0.6/RedlineRuntime-no-buyer.dylib",
-  "sha256": "bd955f93a1e6a62eeeed5a3521c5546d6e4ddead97090acc666b152c3758a2fa",
+  "version": "1.0.7",
+  "url": "https://github.com/GANSGX/redline-updates/releases/download/v1.0.7/RedlineRuntime-no-buyer.dylib",
+  "sha256": "93e0f1d640297b7b780406ca78874d2407a20b3dff3c6af63978e28dadc1e1f8",
   "sourceSha256": "a07d1a023d2677b8b2a81cd1288c517740935e951e63a6f7a79e225b168eed21",
   "gameBuild": "41",
-  "tag": "v1.0.6",
-  "previousTag": "v1.0.5",
+  "tag": "v1.0.7",
+  "previousTag": "v1.0.6",
   "buildOrigin": "local",
   "lastCIRunId": 42639349857
 }
